@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "886691952497",
+    "firebase_url": "https://brain-tester-1aeb8.firebaseio.com",
+    "project_id": "brain-tester-1aeb8",
+    "storage_bucket": "brain-tester-1aeb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886691952497:android:84fb618dc7fd0d618da8d0",
+        "android_client_info": {
+          "package_name": "com.android.braintester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886691952497-1mo0i25qig9tn87iigb1d2en8lu2gge6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoVWlvKv1FR-ODoG12OYAZwaF-BCZuzAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886691952497-1mo0i25qig9tn87iigb1d2en8lu2gge6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
